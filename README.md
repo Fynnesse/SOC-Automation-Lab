@@ -1,7 +1,6 @@
 # SOC Automation Lab
 
-## Objective
-
+## Objective 
 The SOC Automation Project aimed to create a robust and automated SOC environment capable of effectively detecting, analyzing, and responding to security incidents
 The primary focus remains on detecting Mimikatz, utilizing Wazuh for SIEM,Windows 10 agents, TheHive for case management, and now incorporating Shuffle with SOAR workflows. 
 

@@ -1,0 +1,18 @@
+Windows 10 Virtualbox setup: 
+Windows 10 ISO download link: https://www.microsoft.com/en-us/software-download/windows10
+Setup appropriate amount of machine power based on personal device capabilites. 
+  A. Install instruction----https://youtu.be/YxpUx0czgx4?t=132
+
+Credits-Mydfir youtube channel-https://www.youtube.com/@MyDFIR
+
+SYSMON Instructions: https://youtu.be/YxpUx0czgx4?t=515
+Microsoft website for file installation: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+  A. Extract zip into a folder
+
+Sysmon modular- https://github.com/olafhartong/sysmon-modular
+  A. Open sysmon modular github and navigate to "sysmonconfig.xml" and right-click to save as a file
+  B. Place sysmonconfig file into the sysmon folder. 
+
+Open powershell with admin privilege and cd into the directory of the folders location and run command: .\sysmon64.exe -i sysmonconfig.xml
+
+Credits-Mydfir youtube channel-https://www.youtube.com/@MyDFIR

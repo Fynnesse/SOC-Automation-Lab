@@ -17,5 +17,3 @@ The primary focus remains on detecting Mimikatz, utilizing Wazuh for SIEM,Window
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
